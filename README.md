@@ -16,8 +16,8 @@
 <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
 <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/nextjs-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/vuejs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/next-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white"/></a>
 
 🔧Tools
