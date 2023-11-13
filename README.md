@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/javascirpt-#F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
+
 <!--
 **Coconutpalmtreeisland/Coconutpalmtreeisland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
