@@ -1,6 +1,12 @@
+<div align="center">
+
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=0056f9&height=150&section=header&text=Welcome%20to%20my%20Island&fontColor=d6aa54&fontSize=70&animation=fadeIn&fontAlignY=55)
+
+</div>
+
 ### Hi there 👋
 
-✒Skills
+ :black_nib:Skills
 
 <a href="#"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/></a>
 <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
