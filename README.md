@@ -31,9 +31,18 @@
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"></a>
 </div>
 
+<br>
+<div align="left">
+
+<p><strong>⌨My Most Used Languages</strong></p>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coconutpalmtreeisland&layout=compact)](https://github.com/Coconutpalmtreeisland/github-readme-stats)<br><br>
+
+<p><strong>💾My Git Stats</strong></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coconutpalmtreeisland&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coconutpalmtreeisland&layout=compact)](https://github.com/Coconutpalmtreeisland/github-readme-stats)
+
+</div>
 
 <!--
 **Coconutpalmtreeisland/Coconutpalmtreeisland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
