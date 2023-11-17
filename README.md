@@ -1,12 +1,14 @@
 <div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=0056f9&height=150&section=header&text=Welcome%20to%20my%20Island&fontColor=d6aa54&fontSize=70&animation=fadeIn&fontAlignY=55)
+### 반가워요 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCoconutpalmtreeisland&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
-### 반가워요 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCoconutpalmtreeisland&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
- :black_nib:Skills
+## I Have..
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+<p><strong>:black_nib:Skills</strong></p>
 
 <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/></a>
 <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
@@ -20,16 +22,18 @@
 <a href="#"><img alt="vue" src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/></a>
 <a href="#"><img alt="vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/></a>
 
-🔧Tools
+<p><strong>🔧Tools</strong></p>
 
 <a href="#"><img alt="github" src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="#"><img alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/></a>
 <a href="#"><img alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="#"><img alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"></a>
+</div>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coconutpalmtreeisland&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coconutpalmtreeisland&layout=compact)](https://github.com/Coconutpalmtreeisland/github-readme-stats)
 
 <!--
 **Coconutpalmtreeisland/Coconutpalmtreeisland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
