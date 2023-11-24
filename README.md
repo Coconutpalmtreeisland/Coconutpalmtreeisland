@@ -32,17 +32,23 @@
 </div>
 
 <br>
-<div align="left">
 
-<p><strong>⌨My Most Used Languages</strong></p>
+<div>
+  <p><strong>⌨My Most Used Languages</strong></p>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coconutpalmtreeisland&layout=compact)](https://github.com/Coconutpalmtreeisland/github-readme-stats)<br><br>
-
-<p><strong>💾My Git Stats</strong></p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coconutpalmtreeisland&show_icons=true&theme=transparent)
-
 </div>
+
+
+<div>
+  <p><strong>💾My Profile Summary</strong></p>  
+  
+  ![Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coconutpalmtreeisland&theme=github)
+  
+</div>
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coconutpalmtreeisland&show_icons=true&theme=transparent) -->
+
 
 <!--
 **Coconutpalmtreeisland/Coconutpalmtreeisland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
