@@ -22,13 +22,13 @@
 <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/></a>
 <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
 <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"></a>
-<a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?style=flat-square&logo=Markdown&logoColor=white"></a>
 <a href="#"><img alt="jquery" src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
 <a href="#"><img alt="react" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
 <a href="#"><img alt="next" src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>
 
 <!-- <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
 <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white"></a>
+<a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?style=flat-square&logo=Markdown&logoColor=white"></a>
 <a href="#"><img alt="vue" src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/></a>
 <a href="#"><img alt="vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/></a> -->
 
