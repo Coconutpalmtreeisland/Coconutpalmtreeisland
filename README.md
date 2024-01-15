@@ -53,6 +53,9 @@ vue 👉 <a target="_blank" href="https://github.com/Coconutpalmtreeisland/vue-p
 react 👉 <a target="_blank" href="https://github.com/Coconutpalmtreeisland/react-project2023">React</a>  
 next 👉 <a target="_blank" href="https://github.com/Coconutpalmtreeisland/next-project">Next</a>  
 
+### `Next.js`
+- Promptivortex 사이트 👉 <a target="_blank" href="https://github.com/Coconutpalmtreeisland/real_next_prompt?tab=readme-ov-file">RUSUK YOUTUBE</a>
+
 ### `API`
 유튜브 클론 사이트 👉 <a target="_blank" href="https://github.com/Coconutpalmtreeisland/rusuk-react-youtube">RUSUK YOUTUBE</a>
 
